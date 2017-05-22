@@ -14,5 +14,6 @@ public class ReTest {
 	public void testtest(){
 		System.out.println("졸리다 ");
 		System.out.println("commit test");
+		System.out.println("샘플테스트");
 	}
 }
