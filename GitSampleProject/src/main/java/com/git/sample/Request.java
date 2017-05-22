@@ -14,5 +14,7 @@ public class Request {
 	public void name(){
 		System.out.println("요청");
 		System.out.println("요청");
+		System.out.println("요청");
+		
 	}
 }
